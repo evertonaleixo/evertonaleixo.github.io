@@ -128,6 +128,14 @@ others:
   - name: Spring
     level: 3
 
+Languages:
+  - name: Portuguese
+    level: 5
+  - name: English
+    level: 4
+  - name: Spanish
+    level: 1
+
 # Build settings
 
 markdown: kramdown
