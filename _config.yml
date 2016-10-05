@@ -1,27 +1,24 @@
 # Site settings
 
-baseurl: "" # the subpath of your site, e.g. /portfolio
-url: "" # the base hostname & protocol for your site
-language: "" # language to set into html tag, default is en
+baseurl: "/" # the subpath of your site, e.g. /portfolio
+url: "https://evertonaleixo.github.io/" # the base hostname & protocol for your site
+language: "pt-BR" # language to set into html tag, default is en
 
 # User settings
 
-author: Wendell Adriel
+author: Everton Lima Aleixo
 author-title: Full Stack Developer
 gravatar: d36a082aacb53b6f76869748fb4b81d4
-email: wendelladriel.ti@gmail.com
-twitter: wendell_adriel
-github: WendellAdriel
-googleplus: +WendellAdriel
-facebook: wendell.adriel.7
-linkedin: wendelladrielti/en
-bio: "Brazilian developer. Game, music and technology lover.
-      I graduated in Systems Analysis and Development. I'm a Zend Certified PHP Engineer and Scrum Fundamentals Certified. I love to study and learn new skills,
-      exchange work and study experience with people around me and share my knowledge with the ones that want it. I work with Web Development since 2009 and with
-      Mobile Development since 2015 as Freelancer and in some Brazilian companies too.
-      I'm the creator of CodeShare, a free portal with articles, videos, etc, about Software Development. The purpose of this project is to help people who want
-      to learn about Software Development and start their careers in IT area and to help people that already work with Software Development to improve their
-      technical knowledge to get better job opportunities.
+email: everton.jiujitsu@gmail.com
+# twitter: wendell_adriel
+github: evertonaleixo
+# googleplus: +WendellAdriel
+facebook: everton.aleixo.90
+# linkedin: wendelladrielti/en
+bio: "Brazilian developer. Technology and sports lover.
+      I graduated in Computer Sciences, in the Institute of Computer Science, Federal University of Goiás (2008-2012).
+      I do master's degree in computer science in the Institute of Computer Science, Federal University of Goiás (2012-2014).
+      I love to study and learn new skills. I work with Development (Web and Desktop) since 2011.
       I like to work with both: Front-End and Back-End development. I work with many languages, frameworks and technologies."
 
 # Skills
@@ -43,122 +40,91 @@ front-end:
     level: 4
   - name: JavaScript
     level: 4
-  - name: jQuery
-    level: 4
-  - name: Angular
-    level: 4
-  - name: Vue.js
-    level: 2
   - name: Bootstrap
     level: 4
-  - name: Materialize CSS
-    level: 5
+  - name: jQuery
+    level: 3
+  - name: react
+    level: 3
+  - name: aurelia
+    level: 3
+  - name: AngularJS
+    level: 3
   - name: LESS
-    level: 3
-  - name: SASS
-    level: 3
-  - name: Stylus
-    level: 4
+    level: 2
   - name: Gulp
-    level: 4
-  - name: Grunt
-    level: 3
+    level: 2
   - name: Bower
-    level: 3
+    level: 2
+  - name: npm
+    level: 2
 
 back-end:
-  - name: PHP
+  - name: Java
     level: 5
+  - name: Ruby
+    level: 3
   - name: Node.js
     level: 3
-  - name: Ruby
+  - name: SQL
+    level: 3
+  - name: PHP
     level: 2
   - name: Python
     level: 2
-  - name: Java
-    level: 4
-  - name: COBOL
-    level: 2
-  - name: SQL
-    level: 4
-  - name: Lua
-    level: 2
-
+  
 mobile:
   - name: Android
-    level: 2
-  - name: Apache Cordova
-    level: 4
+    level: 1
   - name: Ionic
-    level: 4
-  - name: NativeScript
-    level: 3
-
+    level: 1
+  
 db:
   - name: MySQL
-    level: 4
+    level: 3
   - name: PostgreSQL
     level: 3
   - name: MongoDB
-    level: 4
-  - name: SQL Server
-    level: 2
-  - name: Oracle
     level: 3
-  - name: Firebase
+  - name: Elasticsearch
     level: 3
-  - name: NoSQL
-    level: 4
+  - name: Cassandra
+    level: 3
 
 devops:
   - name: Docker
-    level: 3
+    level: 4
   - name: Vagrant
-    level: 3
+    level: 2
+  - name: Git
+    level: 4
+  - name: Apache Maven
+    level: 4
   - name: Jenkins
     level: 1
-  - name: Git
-    level: 5
-  - name: Apache Maven
-    level: 3
-  - name: Continuous Integration
-    level: 3
-  - name: Continuous Delivery
-    level: 2
+
 
 methodologies:
   - name: Agile Methodologies
-    level: 3
+    level: 4
   - name: Scrum
     level: 4
   - name: RUP
-    level: 3
+    level: 2
 
 others:
   - name: Web Services
-    level: 5
+    level: 4
   - name: REST
-    level: 5
+    level: 4
   - name: JEE, JSF, JPA, EJB, CDI
-    level: 3
+    level: 4
   - name: iReport, Jasper Reports
-    level: 2
+    level: 3
   - name: Hibernate
     level: 3
-  - name: Grails
-    level: 2
-  - name: Symfony
-    level: 3
-  - name: Twig
-    level: 4
-  - name: Doctrine ORM
-    level: 3
-  - name: Laravel, Blade, Eloquent ORM
-    level: 5
   - name: Ruby on Rails
     level: 3
-  - name: MEAN Stack
-    level: 4
   - name: Spring
     level: 3
 
